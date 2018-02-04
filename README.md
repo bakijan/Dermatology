@@ -6,3 +6,5 @@ Classifier , Random Forest Classifier , XGBoost , and Keras . SVM, extra-trees c
 are implemented using sklearn. XGBoost model is built using Python API. Keras is running on Tensorflow. 
 
 Data source: UC Irvine Machine Learning Repository
+
+Limited rendering on Github, use external view via nbviewer clicking the hyphen on the right corner of ipython notebooke.
